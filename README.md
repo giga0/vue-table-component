@@ -1,8 +1,8 @@
 # vue-table-component
 
 ### Demo
-###### CodeSandbox: 
-###### Full screen: 
+###### CodeSandbox: https://codesandbox.io/s/github/giga0/vue-table-component
+###### Full screen: https://wy1jw67057.codesandbox.io/
 
 ### Project setup
 ```
